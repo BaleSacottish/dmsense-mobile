@@ -1,0 +1,37 @@
+export default apiDeviceList =[
+    {
+        id:'1',
+        name:'<surasole1>',
+        status:'connected',
+        ketone:'-',
+        sugar:'-'
+    },
+    {
+        id:'2',
+        name:'<surasole2>', 
+        status:'non-connected',
+        ketone:'-',
+        sugar:'-'
+    },
+    {
+        id:'3',
+        name:'<surasole3>', 
+        status:'non-connected',
+        ketone:'-',
+        sugar:'-'
+    },
+    {
+        id:'4',
+        name:'<surasole4>', 
+        status:'non-connected',
+        ketone:'-',
+        sugar:'-'
+    },
+    {
+        id:'5',
+        name:'<surasole5>', 
+        status:'non-connected',
+        ketone:'-',
+        sugar:'-'
+    }
+]
